@@ -1,0 +1,1 @@
+docker run --rm --name genshin -e LTUID=(Your_LTUID) -e LTOKEN=(Your_LTOKEN) twinboy98/genshin-helper:0.1
